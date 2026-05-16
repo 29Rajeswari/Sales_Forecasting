@@ -3,9 +3,6 @@
 A comprehensive, interactive Power BI dashboard designed to track, analyze, and forecast retail sales performance across regions, categories, ship modes, and customer segments using 2019–2021 order data.
 
 ---
-## 🎬 Dashboard Demo
-
-![Dashboard Demo](https://github.com/29Rajeswari/Sales_Forecasting/blob/main/Dashboard%20Demo.mp4))
 
 ## 📸 Dashboard Preview
 
