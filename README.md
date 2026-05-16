@@ -5,7 +5,7 @@ A comprehensive, interactive Power BI dashboard designed to track, analyze, and 
 ---
 ## 🎬 Dashboard Demo
 
-![Dashboard Demo](https://github.com/29Rajeswari/Sales_Forecasting/assets/200754034/your-video-filename.mp4)
+![Dashboard Demo](https://github.com/29Rajeswari/Sales_Forecasting/blob/main/Dashboard%20Demo.mp4))
 
 ## 📸 Dashboard Preview
 
